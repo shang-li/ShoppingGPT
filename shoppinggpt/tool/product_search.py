@@ -4,9 +4,10 @@ from typing import Union, List, Dict
 from langchain.prompts import PromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain.tools import tool
-from langchain_google_genai import ChatGoogleGenerativeAI
+#from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain.chat_models import init_chat_model
 
-from shoppinggpt.config import GOOGLE_API_KEY, DATA_PRODUCT_PATH
+from shoppinggpt.config import DATA_PRODUCT_PATH
 
 PRODUCT_RECOMMENDATION_PROMPT = """
     You are a chatbot assistant specializing in providing product information and
@@ -75,16 +76,16 @@ class ProductDataLoader:
 @tool
 def product_search_tool(input: str) -> Union[List[Dict], str]:
     """
-    Tìm kiếm thông tin liên quan tới sản phẩm và trả về các thông tin liên quan sử dụng SQLite.
+    Search for product-related information and return relevant details using SQLite.
 
     Args:
-        input (str): Chuỗi tìm kiếm để tìm các sản phẩm.
+        input (str): The search string to find products.
 
     Returns:
-        Union[List[Dict], str]: Kết quả tìm kiếm dưới dạng danh sách từ điển hoặc thông báo lỗi nếu có.
+        Union[List[Dict], str]: The search results as a list of dictionaries or an error message if any.
     """
     try:
-        llm = ChatGoogleGenerativeAI(temperature=0, model="gemini-1.5-flash", google_api_key=GOOGLE_API_KEY)
+        llm = init_chat_model(temperature=0, model="deepseek-chat", model_provider="deepseek")
         prompt = PromptTemplate(
             template=PRODUCT_RECOMMENDATION_PROMPT,
             input_variables=["input"]

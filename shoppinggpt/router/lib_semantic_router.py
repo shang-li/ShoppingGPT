@@ -1,6 +1,6 @@
 from typing import List, Dict
 import numpy as np
-from semantic_router import Route, RouteLayer
+from semantic_router import Route
 from semantic_router.encoders.tfidf import TfidfEncoder
 
 PRODUCT_SAMPLE = [
@@ -74,16 +74,39 @@ class SemanticRouter:
         # Now fit the TfidfEncoder with the routes
         self.embedding.fit(self.routes)
 
-        self.route_layer = RouteLayer(encoder=self.embedding, routes=self.routes)
-
     def similarity(self, query: str, route: Route) -> float:
-        # Calculate similarity between query and route
-        # Using the transform method instead of encode
-        query_embedding = self.embedding.transform([query])[0]
-        route_embedding = self.embedding.transform(route.utterances)
-        return np.mean(np.dot(query_embedding, route_embedding.T))
+        # Calculate cosine-like similarity using sparse TF-IDF encodings
+        try:
+            query_embedding = self.embedding([query])[0]
+            route_embeddings = self.embedding(route.utterances)
+        except ValueError:
+            return 0.0
+
+        query_vector = query_embedding.to_dict()
+        if not query_vector:
+            return 0.0
+
+        scores: List[float] = []
+        for utterance_embedding in route_embeddings:
+            doc_vector = utterance_embedding.to_dict()
+            if not doc_vector:
+                scores.append(0.0)
+                continue
+            common_indices = set(query_vector.keys()) & set(doc_vector.keys())
+            score = sum(query_vector[idx] * doc_vector[idx] for idx in common_indices)
+            scores.append(score)
+
+        return float(np.mean(scores)) if scores else 0.0
 
     def guide(self, query: str) -> str:
-        # Use the route_layer to determine the best route
-        best_route = self.route_layer(query)
+        # Determine the best route by comparing similarity scores
+        best_route = None
+        best_score = float("-inf")
+
+        for route in self.routes:
+            score = self.similarity(query, route)
+            if score > best_score:
+                best_route = route
+                best_score = score
+
         return best_route.name if best_route else CHITCHAT_ROUTE_NAME

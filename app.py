@@ -1,7 +1,8 @@
 from flask import Flask, render_template, request, jsonify
 from dotenv import load_dotenv
 import os
-from langchain_google_genai import ChatGoogleGenerativeAI
+
+from langchain.chat_models import init_chat_model
 from langchain.memory import ConversationBufferMemory
 from shoppinggpt.router.lib_semantic_router import (
     SemanticRouter,
@@ -12,13 +13,11 @@ from shoppinggpt.chain import create_chitchat_chain
 from shoppinggpt.agent import ShoppingAgent
 
 # Load environment variables
-load_dotenv()
-load_dotenv(r"E:\chatbot\ShoppingGPT\.env")
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
 
 # LLM and Embedding setup
-LLM = ChatGoogleGenerativeAI(temperature=0, model="gemini-1.5-flash")
+LLM = init_chat_model(temperature=0, model="deepseek-chat", model_provider="deepseek")
 
 # Memory setup
 SHARED_MEMORY = ConversationBufferMemory(return_messages=True)
@@ -31,7 +30,7 @@ app = Flask(__name__)
 def handle_query(query: str) -> dict:
     """Handle user query and return response."""
     guided_route = SEMANTIC_ROUTER.guide(query)
-    
+
     if guided_route == CHITCHAT_ROUTE_NAME:
         chitchat_chain = create_chitchat_chain(LLM, SHARED_MEMORY)
         response = chitchat_chain.invoke({"input": query})
@@ -40,7 +39,7 @@ def handle_query(query: str) -> dict:
         response = agent.invoke(query)
     else:
         response = "Unknown query type"
-    
+
     # Get content from response
     content = (
         response.content if hasattr(response, 'content')
@@ -56,6 +55,7 @@ def handle_query(query: str) -> dict:
         'response': content,
         'type': guided_route
     }
+ 
 
 @app.route('/')
 def home():
@@ -69,5 +69,9 @@ def get_bot_response():
     print(f"Bot response: {response}")
     return jsonify(response)
 
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+ 
+
+"""
+#if __name__ == '__main__':
+#    app.run(debug=True, host='0.0.0.0', port=5000)
+"""

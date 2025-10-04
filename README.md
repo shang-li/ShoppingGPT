@@ -27,6 +27,7 @@ ShoppingGPT employs a modular, scalable architecture:
    - Classifies and routes user queries to appropriate handlers
 
 3. **Query Handlers**
+
    a. **Chitchat Chain**
       - Manages general conversation
       - Leverages LLM (Gemini-1.5-flash) and ConversationBufferMemory

@@ -1,302 +1,230 @@
-Question: Làm thế nào để tôi thay đổi địa chỉ giao hàng?
-Answer: Anh/Chị vui lòng liên hệ với tổng đài của IVY moda: 02466623434 - nhánh 3 để được hỗ trợ, hoặc gửi email thông tin đơn hàng qua Mail: CSKH@ivy.com.vn (từ 8h – 17h30 hàng ngày từ thứ 2 – thứ 6).
+Question: How can I change my delivery address?
+Answer: Please contact IVY moda's hotline: 02466623434 - extension 3 for support, or send your order information via email to CSKH@ivy.com.vn (from 8:00 AM – 5:30 PM, Monday to Friday).
 
-Question: Tôi có thể đưa thông tin chi tiết của công ty mình vào hóa đơn không?
-Answer: Có. Chỉ cần nhấp vào tùy chọn doanh nghiệp trong thông tin chi tiết cá nhân rồi điền thông tin thuế mà chúng tôi yêu cầu.
+Question: Can I add my company's details to the invoice?
+Answer: Yes. Simply select the business option in your personal details and fill in the required tax information.
 
-Question: Làm cách nào để tôi hủy đơn hàng?
-Answer: Anh/Chị có thể hủy đơn hàng đã đặt bằng cách vào mục “Quản lý đơn hàng”, chọn vào đơn hàng cần hủy và chọn “Hủy đơn hàng”.
+Question: How can I cancel my order?
+Answer: You can cancel your placed order by going to "Order Management", selecting the order you want to cancel, and choosing "Cancel Order".
 
-Question: Có an toàn khi sử dụng thẻ tín dụng của tôi trên trang web không?
-Answer: Đúng, các dữ liệu được truyền đi bằng cách mã hóa theo giao thức SSL. Đối với việc thanh toán bằng thẻ tín dụng và thẻ ghi nợ, yêu cầu phải nhập số CVV (Card Verification Value, Mã Xác thực Thẻ), là mã số in trên thẻ được sử dụng như một biện pháp bảo mật trong các giao dịch thương mại điện tử.
+Question: Is it safe to use my credit card on the website?
+Answer: Yes, all data is transmitted using SSL encryption. For credit and debit card payments, you are required to enter the CVV (Card Verification Value), which is printed on your card and used as a security measure in e-commerce transactions.
 
-Question: Thời gian hoàn lại tiền vào tài khoản của Anh/Chị sẽ phụ thuộc vào điều gì?
-Answer: Thời gian hoàn lại tiền sẽ phụ thuộc vào thời gian của ngân hàng hoặc của bên khác (Momo, VNPay…), tối đa không quá 30 ngày kể từ khi IVY moda nhận được yêu cầu hoàn tiền (không tính thứ bảy, chủ nhật và ngày lễ, Tết).
+Question: What does the refund processing time depend on?
+Answer: The refund processing time depends on your bank or other parties (Momo, VNPay, etc.), but will not exceed 30 days from the time IVY moda receives your refund request (excluding Saturdays, Sundays, and holidays).
 
-Question: Làm cách nào để tôi có thể đăng nhập vào App IVY moda?
-Answer: Sau khi tải app IVYmoda từ AppStore hoặc CH Play trên điện thoại. Anh/Chị vào App chọn mục "Tài khoản" ở góc phải bên dưới màn hình. Sau đó điền thông tin để đăng nhập.
+Question: How can I log in to the IVY moda App?
+Answer: After downloading the IVYmoda app from the AppStore or CH Play on your phone, open the app and select the "Account" section at the bottom right corner. Then enter your information to log in.
 
-Question: Tôi có thể thanh toán khi nhận hàng không?
-Answer: Cách thức thanh toán chi phí vận chuyển: + Thu tiền tận nơi (COD): Khách hàng sẽ thanh toán tiền khi nhận hàng và thanh toán tiền hàng và cước phí vận chuyển cho nhân viên chuyển phát. + Thanh toán chuyển khoản/ thanh toán trực tuyến cho IVY bao gồm tiền hàng và tiền vận chuyển.
+Question: Can I pay upon delivery?
+Answer: Shipping payment methods: + Cash on Delivery (COD): Customers pay when receiving the goods and pay both the product price and shipping fee to the delivery staff. + Bank transfer/online payment to IVY, including product price and shipping fee.
 
-Question: Tại sao bài nhận xét sản phẩm của tôi không được hiển thị tại trang IVYmoda.com?
-Answer: Anh/Chị cần đăng nhập tài khoản vào website IVYmoda.com, chọn sản phẩm cần điền thông tin đánh giá. Sau khi gửi đánh giá, hệ thống sẽ ghi nhận. Trong vòng 24h đánh giá sẽ được phê duyệt và hiển thị.
+Question: Why is my product review not displayed on IVYmoda.com?
+Answer: You need to log in to your account on IVYmoda.com, select the product to review, and submit your review. The system will record it, and within 24 hours your review will be approved and displayed.
 
-Question: Làm cách nào để tôi đăng ký tài khoản trên website IVYmoda.com?
-Answer: Bước 1: Anh/Chị vào website IVYmoda.com. Click chọn hình đại diện góc phải trên cùng ấn chọn "Đăng ký". Bước 2: Điền tên và số điện thoại, các thông tin bắt buộc (dấu sao đỏ) và ấn nút Đăng ký. Sau đó hệ thống sẽ gửi đến điện thoại Anh/Chị một mã OTP xác nhận, Anh/Chị chỉ cần nhập mã này vào và chọn “Tạo Tài Khoản” là đã hoàn tất quá trình đăng ký tài khoản.
+Question: How do I register an account on IVYmoda.com?
+Answer: Step 1: Go to IVYmoda.com. Click the avatar icon at the top right and select "Register". Step 2: Enter your name and phone number, fill in the required information (marked with a red asterisk), and click Register. The system will send an OTP code to your phone; simply enter this code and select "Create Account" to complete the registration process.
 
-Question: Làm thế nào để tôi nhận biết sản phẩm còn hay hết hàng?
-Answer: Trên trang sản phẩm tại Website. Anh/Chị có thể dễ dàng nhận biết qua túi hàng ở góc phải dưới cùng mỗi sản phẩm. Màu Đen -> Còn hàng. Màu Xám trắng -> Hết hàng.
+Question: How do I know if a product is in stock or out of stock?
+Answer: On the product page of the website, you can easily identify this by the bag icon at the bottom right of each product. Black color -> In stock. Grayish white color -> Out of stock.
 
-Question: Làm thế nào để nhận hàng nhanh?
-Answer: Thời gian giao hàng trong khoảng 3-5 ngày làm việc.
+Question: How can I receive my order quickly?
+Answer: Delivery time is approximately 3-5 working days.
 
-Question: Tại sao tôi không đăng nhập được?
-Answer: Anh/Chị kiểm tra lại kết nối internet hoặc thông tin tài khoản và mật khẩu đăng nhập.
+Question: Why can't I log in?
+Answer: Please check your internet connection or verify your account and password information.
 
-Question: Làm thế nào để tôi thêm/ bớt sản phẩm?
-Answer: Để thêm sản phẩm, Anh/Chị chọn sản phẩm và nhấn "Thêm vào giỏ hàng". Tất cả các sản phẩm được thêm sẽ hiển thị ở Giỏ hàng góc phải trên cùng. Anh/Chị vào giỏ hàng này để kiểm tra, thêm/bớt sản phẩm theo mong muốn.
+Question: How can I add or remove products?
+Answer: To add a product, select the product and click "Add to cart". All added products will appear in the cart at the top right corner. You can go to the cart to check, add, or remove products as desired.
 
-Question: Tôi có thể kiểm tra sản phẩm khi nhận hàng không?
-Answer: Để tránh ảnh hưởng đến chất lượng và thẩm mỹ của sản phẩm, IVY moda không áp dụng việc kiểm tra hàng trước khi thanh toán. Sau khi anh/chị nhận hàng, nếu sản phẩm có lỗi thì IVY moda sẽ hỗ trợ đổi trả theo đúng chính sách đang áp dụng tại IVY moda.
+Question: Can I check the product upon delivery?
+Answer: To avoid affecting the quality and aesthetics of the product, IVY moda does not allow checking goods before payment. After you receive the goods, if there is a defect, IVY moda will support returns or exchanges according to the current policy.
 
-Question: Làm thế nào để có tài khoản thành viên của IVY moda?
-Answer: Có 3 cách: + Cách 1: Anh/Chị liên hệ trực tiếp với tổng đài của IVY moda: 02466623434 - nhánh 3 để được hỗ trợ, hoặc gửi email thông tin đơn hàng qua Mail: CSKH@ivy.com.vn (từ 8h – 17h30 hàng ngày từ thứ 2 – thứ 6). + Cách 2: Anh/Chị gặp trực tiếp nhân viên bán hàng, nhân viên thu ngân tại Showroom gần nhất để được hướng dẫn đăng ký thẻ thành viên IVY moda. + Cách 3: Anh/Chị đăng ký trực tiếp trên Website/App tại IVYmoda.com theo hướng dẫn đăng ký tại đây.
+Question: How can I get an IVY moda membership account?
+Answer: There are 3 ways: + Method 1: Contact IVY moda's hotline directly: 02466623434 - extension 3 for support, or send your order information via email to CSKH@ivy.com.vn (from 8:00 AM – 5:30 PM, Monday to Friday). + Method 2: Meet sales staff or cashiers at the nearest showroom for guidance on registering for an IVY moda membership card. + Method 3: Register directly on the Website/App at IVYmoda.com following the registration instructions there.
 
-Question: Làm cách nào để tôi thay đổi mật khẩu tại IVY moda?
-Answer: Sau khi đăng nhập vào website IVYmoda.com. Anh/Chị chọn hình đại diện ở góc phải trên cùng. Bước 1: Chọn mục "Tài khoản của tôi". Bước 2: Chọn mục "Đổi mật khẩu". Bước 3: Điền "Mật khẩu hiện tại" -> "Mật khẩu mới" và xác nhận lại bằng "Nhập lại Mật khẩu mới" để thay đổi.
+Question: How can I change my password at IVY moda?
+Answer: After logging in to IVYmoda.com, click the avatar at the top right. Step 1: Select "My Account". Step 2: Select "Change Password". Step 3: Enter your "Current Password" -> "New Password" and confirm by re-entering the "New Password" to change it.
 
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
+Question: How can I change my default delivery address?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "Address Book". Here, you can edit your default address or add new addresses.
 
-Question: Làm thế nào để tôi theo dõi tiến trình xử lý đơn hàng tại IVY moda?
-Answer: Kiểm tra đơn hàng: Quản lý đơn hàng.
+Question: How can I track my order processing status at IVY moda?
+Answer: Check your order: Order Management.
 
-Question: Tôi phải gửi sản phẩm đến đâu để bảo hành?
-Answer: Bảo hành sản phẩm trọn đời miễn phí: Sửa chữa sản phẩm tại showroom. Quý khách có yêu cầu sửa chữa bảo hành có thể mang sản phẩm tới bất kỳ showroom chính hãng của IVY moda để sử dụng dịch vụ.
+Question: Where do I send my product for warranty service?
+Answer: Lifetime free warranty: Product repair at the showroom. Customers can bring products to any official IVY moda showroom for warranty and repair services.
 
-Question: Chính sách bảo hành tại IVY moda như thế nào?
-Answer: Bảo hành sản phẩm trọn đời miễn phí: Sửa chữa sản phẩm tại showroom. Chỉ bảo hành sửa chữa đơn giản: cắt gấu, bóp nới sản phẩm. Không nhận sửa chữa những yêu cầu phức tạp có thể làm thay đổi thiết kế, kết cấu của sản phẩm. Sản phẩm bị phai màu, hỏng nặng trong quá trình sử dụng do lỗi của người dùng. Không áp dụng với các sản phẩm đặc biệt như: Các sản phẩm IVY Secret, phụ kiện IVY Accessorize, các sản phẩm áo hai dây, sơ mi nam, có chất thun/len/jeans. Nếu sửa sản phẩm mất thêm chi phí nguyên vật liệu, Quý khách hàng vui lòng trả thêm phần chi phí đó. Đối với sản phẩm đồ da: Chỉ bảo hành đối với da thật, trong vòng 06 tháng kể từ ngày mua trên hóa đơn.
+Question: What is the warranty policy at IVY moda?
+Answer: Lifetime free warranty: Product repair at the showroom. Only simple repairs are covered: hemming, taking in or letting out the product. Complex repairs that may alter the design or structure of the product are not accepted. Products that are faded or severely damaged due to user error are not covered. Not applicable to special products such as: IVY Secret products, IVY Accessorize accessories, camisoles, men's shirts, or products made of elastic/knit/jeans. If additional material costs are incurred, customers are kindly asked to pay the extra cost. For leather products: Only genuine leather is warranted, within 6 months from the purchase date on the invoice.
 
-Question: Làm thế nào để được tích điểm?
-Answer: - Mua tại các Showroom IVY moda: Với các hóa đơn mua tại các Showroom IVY moda trên toàn quốc, Anh/Chị đọc SĐT đã đăng ký tài khoản cho nhân viên thu ngân để được tích điểm. - Đặt hàng tại Website/App IVY moda: Anh/Chị đăng nhập tài khoản vào Website/App IVY moda. Sau mỗi đơn hàng thành công sẽ được tích lũy điểm theo giá trị đơn hàng.
+Question: How can I earn reward points?
+Answer: - Purchases at IVY moda Showrooms: For invoices at IVY moda showrooms nationwide, provide your registered phone number to the cashier to earn points. - Orders on the IVY moda Website/App: Log in to your account on the Website/App. After each successful order, points will be accumulated based on the order value.
 
-Question: Điều kiện nâng hạng thẻ KIM CƯƠNG/DIAMOND MEMBERSHIP là gì?
-Answer: Khách hàng có tổng giá trị mua hàng từ 60.000.000 VNĐ trong 01 năm hoặc Khách hàng có tổng giá trị mua hàng từ 25.000.000 VNĐ trong vòng 01 năm kể từ ngày đạt hạng thẻ VÀNG/GOLD MEMBERSHIP.
+Question: What are the conditions for upgrading to DIAMOND MEMBERSHIP?
+Answer: Customers with a total purchase value of 60,000,000 VND within 1 year, or customers with a total purchase value of 25,000,000 VND within 1 year from the date of achieving GOLD MEMBERSHIP.
 
-Question: Thời gian giao hàng dự kiến trong khoảng bao lâu?
-Answer: Thời gian giao hàng dự kiến trong khoảng 7 ngày được tính kể từ thời điểm quý khách nhận được tin nhắn thông báo giao hàng từ IVY moda.
+Question: What is the estimated delivery time?
+Answer: The estimated delivery time is about 7 days from the moment you receive the delivery notification message from IVY moda.
 
-Question: Chính sách đổi trả sản phẩm tại IVY moda như thế nào?
-Answer: Sản phẩm mua với mức chiết khấu từ 50% trở xuống được đổi SIZE – MÀU – MẪU trong 15 ngày kể từ khi nhận được hàng.
+Question: What is the return/exchange policy at IVY moda?
+Answer: Products purchased with a discount of 50% or less can be exchanged for SIZE – COLOR – STYLE within 15 days from the date of receipt.
 
-Question: Làm thế nào để tôi đặt hàng qua website IVY moda?
-Answer: Để đặt hàng trên website IVYmoda.com, Anh/Chị đăng nhập tài khoản (nếu có), tham khảo sản phẩm tại các danh mục, chọn sản phẩm (size, màu sắc...) để đặt hàng. Sau đó đơn hàng sẽ được giao đến địa chỉ mà Anh/Chị đã đăng ký để nhận hàng.
+Question: How do I place an order on the IVY moda website?
+Answer: To order on IVYmoda.com, log in to your account (if any), browse products in the categories, select the product (size, color, etc.) to order. The order will then be delivered to the address you registered.
 
-Question: IVY moda cam kết bảo mật và an toàn như thế nào đối với việc thanh toán bằng thẻ?
-Answer: Hệ thống thanh toán thẻ được cung cấp bởi các đối tác cổng thanh toán đã được cấp phép hoạt động hợp pháp tại Việt Nam. Theo đó, các tiêu chuẩn bảo mật thanh toán thẻ tại IVYmoda.com đảm bảo tuân thủ theo các tiêu chuẩn bảo mật ngành.
+Question: How does IVY moda ensure security and safety for card payments?
+Answer: The card payment system is provided by payment gateway partners legally licensed in Vietnam. Accordingly, card payment security standards at IVYmoda.com comply with industry security standards.
 
-Question: Thời gian giao hàng trong khoảng bao lâu?
-Answer: Thời gian giao hàng trong khoảng 3-5 ngày làm việc.
+Question: How long does delivery take?
+Answer: Delivery time is approximately 3-5 working days.
 
-Question: Làm cách nào để tôi đăng nhận xét sản phẩm trên IVYmoda.com?
-Answer: Anh/Chị cần đăng nhập tài khoản vào website IVYmoda.com. Tại 1 sản phẩm bất kì, Anh/Chị lướt xuống dưới sản phẩm sẽ có mục "Đánh giá sản phẩm". Anh/Chị có thể chấm sao (tối đa 5 sao), đăng ảnh, viết nhận xét về sản phẩm và Gửi đánh giá.
+Question: How do I post a product review on IVYmoda.com?
+Answer: You need to log in to your account on IVYmoda.com. On any product page, scroll down to the "Product Review" section. You can rate (up to 5 stars), upload photos, write a review, and submit it.
 
-Question: Làm cách nào để tôi thay đổi mật khẩu tại IVY moda?
-Answer: Sau khi đăng nhập vào website IVYmoda.com. Anh/Chị chọn hình đại diện ở góc phải trên cùng. Bước 1: Chọn mục "Tài khoản của tôi". Bước 2: Chọn mục "Đổi mật khẩu". Bước 3: Điền "Mật khẩu hiện tại" -> "Mật khẩu mới" và xác nhận lại bằng "Nhập lại Mật khẩu mới" để thay đổi.
+Question: How can I change my password at IVY moda?
+Answer: After logging in to IVYmoda.com, click the avatar at the top right. Step 1: Select "My Account". Step 2: Select "Change Password". Step 3: Enter your "Current Password" -> "New Password" and confirm by re-entering the "New Password" to change it.
 
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
+Question: How can I change my default delivery address?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "Address Book". Here, you can edit your default address or add new addresses.
 
-Question: Tôi có thể thanh toán khi nhận hàng không?
-Answer: Cách thức thanh toán chi phí vận chuyển: + Thu tiền tận nơi (COD): Khách hàng sẽ thanh toán tiền khi nhận hàng và thanh toán tiền hàng và cước phí vận chuyển cho nhân viên chuyển phát. + Thanh toán chuyển khoản/ thanh toán trực tuyến cho IVY bao gồm tiền hàng và tiền vận chuyển.
+Question: Can I pay upon delivery?
+Answer: Shipping payment methods: + Cash on Delivery (COD): Customers pay when receiving the goods and pay both the product price and shipping fee to the delivery staff. + Bank transfer/online payment to IVY, including product price and shipping fee.
 
-Question: Chính sách bảo hành tại IVY moda như thế nào?
-Answer: Bảo hành sản phẩm trọn đời miễn phí: Sửa chữa sản phẩm tại showroom. Chỉ bảo hành sửa chữa đơn giản: cắt gấu, bóp nới sản phẩm. Không nhận sửa chữa những yêu cầu phức tạp có thể làm thay đổi thiết kế, kết cấu của sản phẩm. Sản phẩm bị phai màu, hỏng nặng trong quá trình sử dụng do lỗi của người dùng. Không áp dụng với các sản phẩm đặc biệt như: Các sản phẩm IVY Secret, phụ kiện IVY Accessorize, các sản phẩm áo hai dây, sơ mi nam, có chất thun/len/jeans. Nếu sửa sản phẩm mất thêm chi phí nguyên vật liệu, Quý khách hàng vui lòng trả thêm phần chi phí đó. Đối với sản phẩm đồ da: Chỉ bảo hành đối với da thật, trong vòng 06 tháng kể từ ngày mua trên hóa đơn.
+Question: What is the warranty policy at IVY moda?
+Answer: Lifetime free warranty: Product repair at the showroom. Only simple repairs are covered: hemming, taking in or letting out the product. Complex repairs that may alter the design or structure of the product are not accepted. Products that are faded or severely damaged due to user error are not covered. Not applicable to special products such as: IVY Secret products, IVY Accessorize accessories, camisoles, men's shirts, or products made of elastic/knit/jeans. If additional material costs are incurred, customers are kindly asked to pay the extra cost. For leather products: Only genuine leather is warranted, within 6 months from the purchase date on the invoice.
 
-Question: Thời gian đổi trả trong vòng bao lâu kể từ ngày khách nhận được hàng?
-Answer: Thời gian đổi trả trong vòng 15 ngày kể từ ngày khách nhận được hàng.
+Question: How long do I have to return/exchange after receiving the goods?
+Answer: Returns/exchanges are accepted within 15 days from the date you receive the goods.
 
-Question: Làm thế nào để tôi thêm/bớt sản phẩm?
-Answer: Để thêm sản phẩm, Anh/Chị chọn sản phẩm và nhấn "Thêm vào giỏ hàng". Tất cả các sản phẩm được thêm sẽ hiển thị ở Giỏ hàng góc phải trên cùng. Anh/Chị vào giỏ hàng này để kiểm tra, thêm/bớt sản phẩm theo mong muốn.
+Question: How can I add/remove products?
+Answer: To add a product, select the product and click "Add to cart". All added products will appear in the cart at the top right corner. You can go to the cart to check, add, or remove products as desired.
 
-Question: Tại sao bài nhận xét sản phẩm của tôi không được hiển thị tại trang IVYmoda.com?
-Answer: Anh/Chị cần đăng nhập tài khoản vào website IVYmoda.com, chọn sản phẩm cần điền thông tin đánh giá. Sau khi gửi đánh giá, hệ thống sẽ ghi nhận. Trong vòng 24h đánh giá sẽ được phê duyệt và hiển thị.
+Question: Why is my product review not displayed on IVYmoda.com?
+Answer: You need to log in to your account on IVYmoda.com, select the product to review, and submit your review. The system will record it, and within 24 hours your review will be approved and displayed.
 
-Question: Làm thế nào để nhận biết sản phẩm còn hay hết hàng?
-Answer: Trên trang sản phẩm tại Website. Anh/Chị có thể dễ dàng nhận biết qua túi hàng ở góc phải dưới cùng mỗi sản phẩm. Màu Đen -> Còn hàng. Màu Xám trắng -> Hết hàng.
+Question: How do I know if a product is in stock or out of stock?
+Answer: On the product page of the website, you can easily identify this by the bag icon at the bottom right of each product. Black color -> In stock. Grayish white color -> Out of stock.
 
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
+Question: How can I change my default delivery address?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "Address Book". Here, you can edit your default address or add new addresses.
 
-Question: Tôi phải gửi sản phẩm đến đâu để bảo hành?
-Answer: Bảo hành sản phẩm trọn đời miễn phí: Sửa chữa sản phẩm tại showroom. Quý khách có yêu cầu sửa chữa bảo hành có thể mang sản phẩm tới bất kỳ showroom chính hãng của IVY moda để sử dụng dịch vụ.
+Question: Where do I send my product for warranty service?
+Answer: Lifetime free warranty: Product repair at the showroom. Customers can bring products to any official IVY moda showroom for warranty and repair services.
 
-Question: Làm thế nào để tôi quản lý thông tin trong tài khoản?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Tài khoản của tôi". Tại đây, Anh/Chị sẽ có các trường thông tin về quản lý tài khoản.
+Question: How can I manage my account information?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "My Account". Here, you will find fields to manage your account information.
 
-Question: Làm thế nào để tôi thêm/bớt sản phẩm?
-Answer: Để thêm sản phẩm, Anh/Chị chọn sản phẩm và nhấn "Thêm vào giỏ hàng". Tất cả các sản phẩm được thêm sẽ hiển thị ở Giỏ hàng góc phải trên cùng. Anh/Chị vào giỏ hàng này để kiểm tra, thêm/bớt sản phẩm theo mong muốn.
+Question: How can I add/remove products?
+Answer: To add a product, select the product and click "Add to cart". All added products will appear in the cart at the top right corner. You can go to the cart to check, add, or remove products as desired.
 
-Question: Làm thế nào để có tài khoản thành viên của IVY moda?
-Answer: Có 3 cách: + Cách 1: Anh/Chị liên hệ trực tiếp với tổng đài của IVY moda: 02466623434 - nhánh 3 để được hỗ trợ, hoặc gửi email thông tin đơn hàng qua Mail: CSKH@ivy.com.vn (từ 8h – 17h30 hàng ngày từ thứ 2 – thứ 6). + Cách 2: Anh/Chị gặp trực tiếp nhân viên bán hàng, nhân viên thu ngân tại Showroom gần nhất để được hướng dẫn đăng ký thẻ thành viên IVY moda. + Cách 3: Anh/Chị đăng ký trực tiếp trên Website/App tại IVYmoda.com theo hướng dẫn đăng ký tại đây.
+Question: How can I get an IVY moda membership account?
+Answer: There are 3 ways: + Method 1: Contact IVY moda's hotline directly: 02466623434 - extension 3 for support, or send your order information via email to CSKH@ivy.com.vn (from 8:00 AM – 5:30 PM, Monday to Friday). + Method 2: Meet sales staff or cashiers at the nearest showroom for guidance on registering for an IVY moda membership card. + Method 3: Register directly on the Website/App at IVYmoda.com following the registration instructions there.
 
-Question: Làm thế nào để tôi theo dõi tiến trình xử lý đơn hàng tại IVY moda?
-Answer: Kiểm tra đơn hàng: Quản lý đơn hàng.
+Question: How can I track my order processing status at IVY moda?
+Answer: Check your order: Order Management.
 
-Question: Làm thế nào để tôi đăng nhập vào App IVY moda?
-Answer: Sau khi tải app IVYmoda từ AppStore hoặc CH Play trên điện thoại. Anh/Chị vào App chọn mục "Tài khoản" ở góc phải bên dưới màn hình. Sau đó điền thông tin để đăng nhập.
+Question: How can I log in to the IVY moda App?
+Answer: After downloading the IVYmoda app from the AppStore or CH Play on your phone, open the app and select the "Account" section at the bottom right corner. Then enter your information to log in.
 
-Question: Tôi có thể kiểm tra sản phẩm khi nhận hàng không?
-Answer: Để tránh ảnh hưởng đến chất lượng và thẩm mỹ của sản phẩm, IVY moda không áp dụng việc kiểm tra hàng trước khi thanh toán. Sau khi anh/chị nhận hàng, nếu sản phẩm có lỗi thì IVY moda sẽ hỗ trợ đổi trả theo đúng chính sách đang áp dụng tại IVY moda.
+Question: Can I check the product upon delivery?
+Answer: To avoid affecting the quality and aesthetics of the product, IVY moda does not allow checking goods before payment. After you receive the goods, if there is a defect, IVY moda will support returns or exchanges according to the current policy.
 
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
+Question: How can I change my default delivery address?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "Address Book". Here, you can edit your default address or add new addresses.
 
-Question: Thời gian giao hàng dự kiến trong khoảng bao lâu?
-Answer: Thời gian giao hàng dự kiến trong khoảng 7 ngày được tính kể từ thời điểm quý khách nhận được tin nhắn thông báo giao hàng từ IVY moda.
+Question: What is the estimated delivery time?
+Answer: The estimated delivery time is about 7 days from the moment you receive the delivery notification message from IVY moda.
 
-Question: Chính sách đổi trả sản phẩm tại IVY moda như thế nào?
-Answer: Sản phẩm mua với mức chiết khấu từ 50% trở xuống được đổi SIZE – MÀU – MẪU trong 15 ngày kể từ khi nhận được hàng.
+Question: What is the return/exchange policy at IVY moda?
+Answer: Products purchased with a discount of 50% or less can be exchanged for SIZE – COLOR – STYLE within 15 days from the date of receipt.
 
-Question: Làm thế nào để tôi đặt hàng qua website IVY moda?
-Answer: Để đặt hàng trên website IVYmoda.com, Anh/Chị đăng nhập tài khoản (nếu có), tham khảo sản phẩm tại các danh mục, chọn sản phẩm (size, màu sắc...) để đặt hàng. Sau đó đơn hàng sẽ được giao đến địa chỉ mà Anh/Chị đã đăng ký để nhận hàng.
+Question: How do I place an order on the IVY moda website?
+Answer: To order on IVYmoda.com, log in to your account (if any), browse products in the categories, select the product (size, color, etc.) to order. The order will then be delivered to the address you registered.
 
-Question: IVY moda cam kết bảo mật và an toàn như thế nào đối với việc thanh toán bằng thẻ?
-Answer: Hệ thống thanh toán thẻ được cung cấp bởi các đối tác cổng thanh toán đã được cấp phép hoạt động hợp pháp tại Việt Nam. Theo đó, các tiêu chuẩn bảo mật thanh toán thẻ tại IVYmoda.com đảm bảo tuân thủ theo các tiêu chuẩn bảo mật ngành.
+Question: How does IVY moda ensure security and safety for card payments?
+Answer: The card payment system is provided by payment gateway partners legally licensed in Vietnam. Accordingly, card payment security standards at IVYmoda.com comply with industry security standards.
 
-Question: Thời gian giao hàng trong khoảng bao lâu?
-Answer: Thời gian giao hàng trong khoảng 3-5 ngày làm việc.
+Question: How long does delivery take?
+Answer: Delivery time is approximately 3-5 working days.
 
-Question: Làm cách nào để tôi đăng nhận xét sản phẩm trên IVYmoda.com?
-Answer: Anh/Chị cần đăng nhập tài khoản vào website IVYmoda.com. Tại 1 sản phẩm bất kì, Anh/Chị lướt xuống dưới sản phẩm sẽ có mục "Đánh giá sản phẩm". Anh/Chị có thể chấm sao (tối đa 5 sao), đăng ảnh, viết nhận xét về sản phẩm và Gửi đánh giá.
+Question: How do I post a product review on IVYmoda.com?
+Answer: You need to log in to your account on IVYmoda.com. On any product page, scroll down to the "Product Review" section. You can rate (up to 5 stars), upload photos, write a review, and submit it.
 
-Question: Làm cách nào để tôi thay đổi mật khẩu tại IVY moda?
-Answer: Sau khi đăng nhập vào website IVYmoda.com. Anh/Chị chọn hình đại diện ở góc phải trên cùng. Bước 1: Chọn mục "Tài khoản của tôi". Bước 2: Chọn mục "Đổi mật khẩu". Bước 3: Điền "Mật khẩu hiện tại" -> "Mật khẩu mới" và xác nhận lại bằng "Nhập lại Mật khẩu mới" để thay đổi.
+Question: How can I change my password at IVY moda?
+Answer: After logging in to IVYmoda.com, click the avatar at the top right. Step 1: Select "My Account". Step 2: Select "Change Password". Step 3: Enter your "Current Password" -> "New Password" and confirm by re-entering the "New Password" to change it.
 
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
+Question: How can I change my default delivery address?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "Address Book". Here, you can edit your default address or add new addresses.
 
-Question: Tôi có thể thanh toán khi nhận hàng không?
-Answer: Cách thức thanh toán chi phí vận chuyển: + Thu tiền tận nơi (COD): Khách hàng sẽ thanh toán tiền khi nhận hàng và thanh toán tiền hàng và cước phí vận chuyển cho nhân viên chuyển phát. + Thanh toán chuyển khoản/ thanh toán trực tuyến cho IVY bao gồm tiền hàng và tiền vận chuyển.
+Question: Can I pay upon delivery?
+Answer: Shipping payment methods: + Cash on Delivery (COD): Customers pay when receiving the goods and pay both the product price and shipping fee to the delivery staff. + Bank transfer/online payment to IVY, including product price and shipping fee.
 
-Question: Chính sách bảo hành tại IVY moda như thế nào?
-Answer: Bảo hành sản phẩm trọn đời miễn phí: Sửa chữa sản phẩm tại showroom. Chỉ bảo hành sửa chữa đơn giản: cắt gấu, bóp nới sản phẩm. Không nhận sửa chữa những yêu cầu phức tạp có thể làm thay đổi thiết kế, kết cấu của sản phẩm. Sản phẩm bị phai màu, hỏng nặng trong quá trình sử dụng do lỗi của người dùng. Không áp dụng với các sản phẩm đặc biệt như: Các sản phẩm IVY Secret, phụ kiện IVY Accessorize, các sản phẩm áo hai dây, sơ mi nam, có chất thun/len/jeans. Nếu sửa sản phẩm mất thêm chi phí nguyên vật liệu, Quý khách hàng vui lòng trả thêm phần chi phí đó. Đối với sản phẩm đồ da: Chỉ bảo hành đối với da thật, trong vòng 06 tháng kể từ ngày mua trên hóa đơn.
+Question: What is the warranty policy at IVY moda?
+Answer: Lifetime free warranty: Product repair at the showroom. Only simple repairs are covered: hemming, taking in or letting out the product. Complex repairs that may alter the design or structure of the product are not accepted. Products that are faded or severely damaged due to user error are not covered. Not applicable to special products such as: IVY Secret products, IVY Accessorize accessories, camisoles, men's shirts, or products made of elastic/knit/jeans. If additional material costs are incurred, customers are kindly asked to pay the extra cost. For leather products: Only genuine leather is warranted, within 6 months from the purchase date on the invoice.
 
-Question: Thời gian đổi trả trong vòng bao lâu kể từ ngày khách nhận được hàng?
-Answer: Thời gian đổi trả trong vòng 15 ngày kể từ ngày khách nhận được hàng.
+Question: How long do I have to return/exchange after receiving the goods?
+Answer: Returns/exchanges are accepted within 15 days from the date you receive the goods.
 
-Question: Làm thế nào để tôi thêm/bớt sản phẩm?
-Answer: Để thêm sản phẩm, Anh/Chị chọn sản phẩm và nhấn "Thêm vào giỏ hàng". Tất cả các sản phẩm được thêm sẽ hiển thị ở Giỏ hàng góc phải trên cùng. Anh/Chị vào giỏ hàng này để kiểm tra, thêm/bớt sản phẩm theo mong muốn.
+Question: How can I add/remove products?
+Answer: To add a product, select the product and click "Add to cart". All added products will appear in the cart at the top right corner. You can go to the cart to check, add, or remove products as desired.
 
-Question: Tại sao bài nhận xét sản phẩm của tôi không được hiển thị tại trang IVYmoda.com?
-Answer: Anh/Chị cần đăng nhập tài khoản vào website IVYmoda.com, chọn sản phẩm cần điền thông tin đánh giá. Sau khi gửi đánh giá, hệ thống sẽ ghi nhận. Trong vòng 24h đánh giá sẽ được phê duyệt và hiển thị.
+Question: Why is my product review not displayed on IVYmoda.com?
+Answer: You need to log in to your account on IVYmoda.com, select the product to review, and submit your review. The system will record it, and within 24 hours your review will be approved and displayed.
 
-Question: Làm thế nào để nhận biết sản phẩm còn hay hết hàng?
-Answer: Trên trang sản phẩm tại Website. Anh/Chị có thể dễ dàng nhận biết qua túi hàng ở góc phải dưới cùng mỗi sản phẩm. Màu Đen -> Còn hàng. Màu Xám trắng -> Hết hàng.
+Question: How do I know if a product is in stock or out of stock?
+Answer: On the product page of the website, you can easily identify this by the bag icon at the bottom right of each product. Black color -> In stock. Grayish white color -> Out of stock.
 
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
+Question: How can I change my default delivery address?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "Address Book". Here, you can edit your default address or add new addresses.
 
-Question: Tôi phải gửi sản phẩm đến đâu để bảo hành?
-Answer: Bảo hành sản phẩm trọn đời miễn phí: Sửa chữa sản phẩm tại showroom. Quý khách có yêu cầu sửa chữa bảo hành có thể mang sản phẩm tới bất kỳ showroom chính hãng của IVY moda để sử dụng dịch vụ.
+Question: Where do I send my product for warranty service?
+Answer: Lifetime free warranty: Product repair at the showroom. Customers can bring products to any official IVY moda showroom for warranty and repair services.
 
-Question: Làm thế nào để tôi quản lý thông tin trong tài khoản?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Tài khoản của tôi". Tại đây, Anh/Chị sẽ có các trường thông tin về quản lý tài khoản.
+Question: How can I manage my account information?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "My Account". Here, you will find fields to manage your account information.
 
-Question: Làm thế nào để tôi thêm/bớt sản phẩm?
-Answer: Để thêm sản phẩm, Anh/Chị chọn sản phẩm và nhấn "Thêm vào giỏ hàng". Tất cả các sản phẩm được thêm sẽ hiển thị ở Giỏ hàng góc phải trên cùng. Anh/Chị vào giỏ hàng này để kiểm tra, thêm/bớt sản phẩm theo mong muốn.
+Question: How can I add/remove products?
+Answer: To add a product, select the product and click "Add to cart". All added products will appear in the cart at the top right corner. You can go to the cart to check, add, or remove products as desired.
 
-Question: Làm thế nào để có tài khoản thành viên của IVY moda?
-Answer: Có 3 cách: + Cách 1: Anh/Chị liên hệ trực tiếp với tổng đài của IVY moda: 02466623434 - nhánh 3 để được hỗ trợ, hoặc gửi email thông tin đơn hàng qua Mail: CSKH@ivy.com.vn (từ 8h – 17h30 hàng ngày từ thứ 2 – thứ 6). + Cách 2: Anh/Chị gặp trực tiếp nhân viên bán hàng, nhân viên thu ngân tại Showroom gần nhất để được hướng dẫn đăng ký thẻ thành viên IVY moda. + Cách 3: Anh/Chị đăng ký trực tiếp trên Website/App tại IVYmoda.com theo hướng dẫn đăng ký tại đây.
+Question: How can I get an IVY moda membership account?
+Answer: There are 3 ways: + Method 1: Contact IVY moda's hotline directly: 02466623434 - extension 3 for support, or send your order information via email to CSKH@ivy.com.vn (from 8:00 AM – 5:30 PM, Monday to Friday). + Method 2: Meet sales staff or cashiers at the nearest showroom for guidance on registering for an IVY moda membership card. + Method 3: Register directly on the Website/App at IVYmoda.com following the registration instructions there.
 
-Question: Làm thế nào để tôi theo dõi tiến trình xử lý đơn hàng tại IVY moda?
-Answer: Kiểm tra đơn hàng: Quản lý đơn hàng.
+Question: How can I track my order processing status at IVY moda?
+Answer: Check your order: Order Management.
 
-Question: Làm thế nào để tôi đăng nhập vào App IVY moda?
-Answer: Sau khi tải app IVYmoda từ AppStore hoặc CH Play trên điện thoại. Anh/Chị vào App chọn mục "Tài khoản" ở góc phải bên dưới màn hình. Sau đó điền thông tin để
+Question: How can I log in to the IVY moda App?
+Answer: After downloading the IVYmoda app from the AppStore or CH Play on your phone, open the app and select the "Account" section at the bottom right corner. Then enter your information to log in.
 
-tiếp tục 
+Question: Can I check the product upon delivery?
+Answer: To avoid affecting the quality and aesthetics of the product, IVY moda does not allow checking goods before payment. After you receive the goods, if there is a defect, IVY moda will support returns or exchanges according to the current policy.
 
-Question: Làm thế nào để tôi đăng nhập vào App IVY moda?
-Answer: Sau khi tải app IVYmoda từ AppStore hoặc CH Play trên điện thoại. Anh/Chị vào App chọn mục "Tài khoản" ở góc phải bên dưới màn hình. Sau đó điền thông tin để đăng nhập.
+Question: How can I change my default delivery address?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "Address Book". Here, you can edit your default address or add new addresses.
 
-Question: Tôi có thể kiểm tra sản phẩm khi nhận hàng không?
-Answer: Để tránh ảnh hưởng đến chất lượng và thẩm mỹ của sản phẩm, IVY moda không áp dụng việc kiểm tra hàng trước khi thanh toán. Sau khi anh/chị nhận hàng, nếu sản phẩm có lỗi thì IVY moda sẽ hỗ trợ đổi trả theo đúng chính sách đang áp dụng tại IVY moda.
+Question: What is the estimated delivery time?
+Answer: The estimated delivery time is about 7 days from the moment you receive the delivery notification message from IVY moda.
 
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
+Question: What is the return/exchange policy at IVY moda?
+Answer: Products purchased with a discount of 50% or less can be exchanged for SIZE – COLOR – STYLE within 15 days from the date of receipt.
 
-Question: Thời gian giao hàng dự kiến trong khoảng bao lâu?
-Answer: Thời gian giao hàng dự kiến trong khoảng 7 ngày được tính kể từ thời điểm quý khách nhận được tin nhắn thông báo giao hàng từ IVY moda.
+Question: How do I place an order on the IVY moda website?
+Answer: To order on IVYmoda.com, log in to your account (if any), browse products in the categories, select the product (size, color, etc.) to order. The order will then be delivered to the address you registered.
 
-Question: Chính sách đổi trả sản phẩm tại IVY moda như thế nào?
-Answer: Sản phẩm mua với mức chiết khấu từ 50% trở xuống được đổi SIZE – MÀU – MẪU trong 15 ngày kể từ khi nhận được hàng.
+Question: How does IVY moda ensure security and safety for card payments?
+Answer: The card payment system is provided by payment gateway partners legally licensed in Vietnam. Accordingly, card payment security standards at IVYmoda.com comply with industry security standards.
 
-Question: Làm thế nào để tôi đặt hàng qua website IVY moda?
-Answer: Để đặt hàng trên website IVYmoda.com, Anh/Chị đăng nhập tài khoản (nếu có), tham khảo sản phẩm tại các danh mục, chọn sản phẩm (size, màu sắc...) để đặt hàng. Sau đó đơn hàng sẽ được giao đến địa chỉ mà Anh/Chị đã đăng ký để nhận hàng.
+Question: How long does delivery take?
+Answer: Delivery time is approximately 3-5 working days.
 
-Question: IVY moda cam kết bảo mật và an toàn như thế nào đối với việc thanh toán bằng thẻ?
-Answer: Hệ thống thanh toán thẻ được cung cấp bởi các đối tác cổng thanh toán đã được cấp phép hoạt động hợp pháp tại Việt Nam. Theo đó, các tiêu chuẩn bảo mật thanh toán thẻ tại IVYmoda.com đảm bảo tuân thủ theo các tiêu chuẩn bảo mật ngành.
+Question: How do I post a product review on IVYmoda.com?
+Answer: You need to log in to your account on IVYmoda.com. On any product page, scroll down to the "Product Review" section. You can rate (up to 5 stars), upload photos, write a review, and submit it.
 
-Question: Thời gian giao hàng trong khoảng bao lâu?
-Answer: Thời gian giao hàng trong khoảng 3-5 ngày làm việc.
+Question: How can I change my password at IVY moda?
+Answer: After logging in to IVYmoda.com, click the avatar at the top right. Step 1: Select "My Account". Step 2: Select "Change Password". Step 3: Enter your "Current Password" -> "New Password" and confirm by re-entering the "New Password" to change it.
 
-Question: Làm cách nào để tôi đăng nhận xét sản phẩm trên IVYmoda.com?
-Answer: Anh/Chị cần đăng nhập tài khoản vào website IVYmoda.com. Tại 1 sản phẩm bất kì, Anh/Chị lướt xuống dưới sản phẩm sẽ có mục "Đánh giá sản phẩm". Anh/Chị có thể chấm sao (tối đa 5 sao), đăng ảnh, viết nhận xét về sản phẩm và Gửi đánh giá.
+Question: How can I change my default delivery address?
+Answer: Log in to IVYmoda.com and your account. Click the avatar at the top right and select "Address Book". Here, you can edit your default address or add new addresses.
 
-Question: Làm cách nào để tôi thay đổi mật khẩu tại IVY moda?
-Answer: Sau khi đăng nhập vào website IVYmoda.com. Anh/Chị chọn hình đại diện ở góc phải trên cùng. Bước 1: Chọn mục "Tài khoản của tôi". Bước 2: Chọn mục "Đổi mật khẩu". Bước 3: Điền "Mật khẩu hiện tại" -> "Mật khẩu mới" và xác nhận lại bằng "Nhập lại Mật khẩu mới" để thay đổi.
-
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
-
-Question: Tôi có thể thanh toán khi nhận hàng không?
-Answer: Cách thức thanh toán chi phí vận chuyển: + Thu tiền tận nơi (COD): Khách hàng sẽ thanh toán tiền khi nhận hàng và thanh toán tiền hàng và cước phí vận chuyển cho nhân viên chuyển phát. + Thanh toán chuyển khoản/ thanh toán trực tuyến cho IVY bao gồm tiền hàng và tiền vận chuyển.
-
-Question: Chính sách bảo hành tại IVY moda như thế nào?
-Answer: Bảo hành sản phẩm trọn đời miễn phí: Sửa chữa sản phẩm tại showroom. Chỉ bảo hành sửa chữa đơn giản: cắt gấu, bóp nới sản phẩm. Không nhận sửa chữa những yêu cầu phức tạp có thể làm thay đổi thiết kế, kết cấu của sản phẩm. Sản phẩm bị phai màu, hỏng nặng trong quá trình sử dụng do lỗi của người dùng. Không áp dụng với các sản phẩm đặc biệt như: Các sản phẩm IVY Secret, phụ kiện IVY Accessorize, các sản phẩm áo hai dây, sơ mi nam, có chất thun/len/jeans. Nếu sửa sản phẩm mất thêm chi phí nguyên vật liệu, Quý khách hàng vui lòng trả thêm phần chi phí đó. Đối với sản phẩm đồ da: Chỉ bảo hành đối với da thật, trong vòng 06 tháng kể từ ngày mua trên hóa đơn.
-
-Question: Thời gian đổi trả trong vòng bao lâu kể từ ngày khách nhận được hàng?
-Answer: Thời gian đổi trả trong vòng 15 ngày kể từ ngày khách nhận được hàng.
-
-Question: Làm thế nào để tôi thêm/bớt sản phẩm?
-Answer: Để thêm sản phẩm, Anh/Chị chọn sản phẩm và nhấn "Thêm vào giỏ hàng". Tất cả các sản phẩm được thêm sẽ hiển thị ở Giỏ hàng góc phải trên cùng. Anh/Chị vào giỏ hàng này để kiểm tra, thêm/bớt sản phẩm theo mong muốn.
-
-Question: Tại sao bài nhận xét sản phẩm của tôi không được hiển thị tại trang IVYmoda.com?
-Answer: Anh/Chị cần đăng nhập tài khoản vào website IVYmoda.com, chọn sản phẩm cần điền thông tin đánh giá. Sau khi gửi đánh giá, hệ thống sẽ ghi nhận. Trong vòng 24h đánh giá sẽ được phê duyệt và hiển thị.
-
-Question: Làm thế nào để nhận biết sản phẩm còn hay hết hàng?
-Answer: Trên trang sản phẩm tại Website. Anh/Chị có thể dễ dàng nhận biết qua túi hàng ở góc phải dưới cùng mỗi sản phẩm. Màu Đen -> Còn hàng. Màu Xám trắng -> Hết hàng.
-
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
-
-Question: Tôi phải gửi sản phẩm đến đâu để bảo hành?
-Answer: Bảo hành sản phẩm trọn đời miễn phí: Sửa chữa sản phẩm tại showroom. Quý khách có yêu cầu sửa chữa bảo hành có thể mang sản phẩm tới bất kỳ showroom chính hãng của IVY moda để sử dụng dịch vụ.
-
-Question: Làm thế nào để tôi quản lý thông tin trong tài khoản?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Tài khoản của tôi". Tại đây, Anh/Chị sẽ có các trường thông tin về quản lý tài khoản.
-
-Question: Làm thế nào để tôi thêm/bớt sản phẩm?
-Answer: Để thêm sản phẩm, Anh/Chị chọn sản phẩm và nhấn "Thêm vào giỏ hàng". Tất cả các sản phẩm được thêm sẽ hiển thị ở Giỏ hàng góc phải trên cùng. Anh/Chị vào giỏ hàng này để kiểm tra, thêm/bớt sản phẩm theo mong muốn.
-
-Question: Làm thế nào để có tài khoản thành viên của IVY moda?
-Answer: Có 3 cách: + Cách 1: Anh/Chị liên hệ trực tiếp với tổng đài của IVY moda: 02466623434 - nhánh 3 để được hỗ trợ, hoặc gửi email thông tin đơn hàng qua Mail: CSKH@ivy.com.vn (từ 8h – 17h30 hàng ngày từ thứ 2 – thứ 6). + Cách 2: Anh/Chị gặp trực tiếp nhân viên bán hàng, nhân viên thu ngân tại Showroom gần nhất để được hướng dẫn đăng ký thẻ thành viên IVY moda. + Cách 3: Anh/Chị đăng ký trực tiếp trên Website/App tại IVYmoda.com theo hướng dẫn đăng ký tại đây.Question: Làm thế nào để tôi theo dõi tiến trình xử lý đơn hàng tại IVY moda?
-Answer: Kiểm tra đơn hàng: Quản lý đơn hàng.
-
-Question: Làm thế nào để tôi đăng nhập vào App IVY moda?
-Answer: Sau khi tải app IVYmoda từ AppStore hoặc CH Play trên điện thoại. Anh/Chị vào App chọn mục "Tài khoản" ở góc phải bên dưới màn hình. Sau đó điền thông tin để đăng nhập.
-
-Question: Tôi có thể kiểm tra sản phẩm khi nhận hàng không?
-Answer: Để tránh ảnh hưởng đến chất lượng và thẩm mỹ của sản phẩm, IVY moda không áp dụng việc kiểm tra hàng trước khi thanh toán. Sau khi anh/chị nhận hàng, nếu sản phẩm có lỗi thì IVY moda sẽ hỗ trợ đổi trả theo đúng chính sách đang áp dụng tại IVY moda.
-
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
-
-Question: Thời gian giao hàng dự kiến trong khoảng bao lâu?
-Answer: Thời gian giao hàng dự kiến trong khoảng 7 ngày được tính kể từ thời điểm quý khách nhận được tin nhắn thông báo giao hàng từ IVY moda.
-
-Question: Chính sách đổi trả sản phẩm tại IVY moda như thế nào?
-Answer: Sản phẩm mua với mức chiết khấu từ 50% trở xuống được đổi SIZE – MÀU – MẪU trong 15 ngày kể từ khi nhận được hàng.
-
-Question: Làm thế nào để tôi đặt hàng qua website IVY moda?
-Answer: Để đặt hàng trên website IVYmoda.com, Anh/Chị đăng nhập tài khoản (nếu có), tham khảo sản phẩm tại các danh mục, chọn sản phẩm (size, màu sắc...) để đặt hàng. Sau đó đơn hàng sẽ được giao đến địa chỉ mà Anh/Chị đã đăng ký để nhận hàng.
-
-Question: IVY moda cam kết bảo mật và an toàn như thế nào đối với việc thanh toán bằng thẻ?
-Answer: Hệ thống thanh toán thẻ được cung cấp bởi các đối tác cổng thanh toán đã được cấp phép hoạt động hợp pháp tại Việt Nam. Theo đó, các tiêu chuẩn bảo mật thanh toán thẻ tại IVYmoda.com đảm bảo tuân thủ theo các tiêu chuẩn bảo mật ngành.
-
-Question: Thời gian giao hàng trong khoảng bao lâu?
-Answer: Thời gian giao hàng trong khoảng 3-5 ngày làm việc.
-
-Question: Làm cách nào để tôi đăng nhận xét sản phẩm trên IVYmoda.com?
-Answer: Anh/Chị cần đăng nhập tài khoản vào website IVYmoda.com. Tại 1 sản phẩm bất kì, Anh/Chị lướt xuống dưới sản phẩm sẽ có mục "Đánh giá sản phẩm". Anh/Chị có thể chấm sao (tối đa 5 sao), đăng ảnh, viết nhận xét về sản phẩm và Gửi đánh giá.
-
-Question: Làm cách nào để tôi thay đổi mật khẩu tại IVY moda?
-Answer: Sau khi đăng nhập vào website IVYmoda.com. Anh/Chị chọn hình đại diện ở góc phải trên cùng. Bước 1: Chọn mục "Tài khoản của tôi". Bước 2: Chọn mục "Đổi mật khẩu". Bước 3: Điền "Mật khẩu hiện tại" -> "Mật khẩu mới" và xác nhận lại bằng "Nhập lại Mật khẩu mới" để thay đổi.
-
-Question: Làm thế nào để tôi thay đổi địa chỉ nhận hàng mặc định?
-Answer: Anh/Chị truy cập vào website IVYmoda.com và đăng nhập tài khoản. Anh/Chị chọn hình đại diện ở góc phải trên cùng rồi chọn mục "Sổ địa chỉ". Tại đây, Anh/Chị sẽ có thể sửa địa chỉ mặc định hoặc thêm các địa chỉ mới.
-
-Question: Tôi có thể thanh toán khi nhận hàng không?
-Answer: Cách thức thanh toán chi phí vận chuyển: + Thu tiền tận nơi (COD): Khách hàng sẽ thanh toán tiền khi nhận hàng và thanh toán tiền hàng và cước phí vận chuyển cho nhân viên chuyển phát. + Thanh toán chuyển khoản/ thanh toán trực tuyến cho IVY bao gồm tiền hàng và tiền vận chuyển.
+Question: Can I pay upon delivery?
+Answer: Shipping payment methods: + Cash on Delivery (COD): Customers pay when receiving the goods and pay both the product price and shipping fee to the delivery staff. + Bank transfer/online payment to IVY, including product price and shipping fee.

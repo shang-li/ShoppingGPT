@@ -16,7 +16,7 @@ class ShoppingAgent:
             Your task is to answer customer questions about products and store policies.
             Use the available tools to search for accurate information and provide appropriate answers.
                       
-            Always use Vietnamese to communicate with customers."""),
+            Always use English to communicate with customers."""),
             ("human", "{input}"),
             ("ai", "{agent_scratchpad}")
         ])
